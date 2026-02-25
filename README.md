@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu25985-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/vtu25985-netizen/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25985-netizen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu25985-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu25985-netizen/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
