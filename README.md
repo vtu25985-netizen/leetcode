@@ -6,6 +6,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu25985-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu25985-netizen/leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/vtu25985-netizen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu25985-netizen/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25985-netizen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -24,6 +25,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/vtu25985-netizen/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/vtu25985-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25985-netizen/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vtu25985-netizen/leetcode/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +55,12 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu25985-netizen/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu25985-netizen/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vtu25985-netizen/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
