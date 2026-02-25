@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25985-netizen/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu25985-netizen/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu25985-netizen/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
