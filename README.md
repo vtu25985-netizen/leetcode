@@ -8,6 +8,7 @@
 | [0283-move-zeroes](https://github.com/vtu25985-netizen/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu25985-netizen/leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu25985-netizen/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/vtu25985-netizen/leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25985-netizen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -59,8 +60,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu25985-netizen/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu25985-netizen/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu25985-netizen/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu25985-netizen/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
