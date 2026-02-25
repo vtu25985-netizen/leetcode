@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu25985-netizen/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/vtu25985-netizen/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu25985-netizen/leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25985-netizen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/vtu25985-netizen/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25985-netizen/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
